@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently a student in the **BEKUP Create** program held by the Ministry of Creative Economy, partnered with Dicoding Academy. <br> 
+Although Plant Science is my main academic background, I am keen on improving my skills in computer science-related fields because I hope one day to bring these two knowledge together to solve the pressing issues occurring within food supply and crop production systems. 
 <!--
 **Ribut-Riyanto/Ribut-Riyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
