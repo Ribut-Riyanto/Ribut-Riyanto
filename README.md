@@ -1,6 +1,15 @@
 ## Hi there 👋
 I'm currently a student in the **BEKUP Create** program held by the Ministry of Creative Economy, partnered with Dicoding Academy. <br> 
 Although Plant Science is my main academic background, I am keen on improving my skills in computer science-related fields because I hope one day to bring these two knowledge together to solve the pressing issues occurring within food supply and crop production systems. 
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Ribut-Riyanto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ribut-Riyanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ribut-Riyanto&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **Ribut-Riyanto/Ribut-Riyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
